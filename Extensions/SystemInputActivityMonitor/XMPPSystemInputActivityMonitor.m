@@ -1,5 +1,5 @@
 #import "XMPPSystemInputActivityMonitor.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPLogging.h"
 #import "XMPPFramework.h"
 

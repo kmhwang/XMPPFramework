@@ -18,7 +18,7 @@
     #import <Cocoa/Cocoa.h>
 #endif
 
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPvCardTempModule.h"
 
 #define _XMPP_VCARD_AVATAR_MODULE_H

@@ -1,7 +1,7 @@
 #import "TURNSocket.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPLogging.h"
-#import "GCDAsyncSocket.h"
+#import <CocoaAsyncSocket/GCDAsyncSocket.h>
 #import "NSData+XMPP.h"
 #import "NSNumber+XMPP.h"
 

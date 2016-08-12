@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 #import "XMPPUser.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 
 #if TARGET_OS_IPHONE
     #import <UIKit/UIKit.h>

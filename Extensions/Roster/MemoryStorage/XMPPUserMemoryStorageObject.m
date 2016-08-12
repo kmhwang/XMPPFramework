@@ -1,4 +1,4 @@
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPRosterMemoryStoragePrivate.h"
 
 #if ! __has_feature(objc_arc)

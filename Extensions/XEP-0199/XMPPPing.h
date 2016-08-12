@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "XMPP.h"
+#import "XMPPCore.h"
 
 #define _XMPP_PING_H
 

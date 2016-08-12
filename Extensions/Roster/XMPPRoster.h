@@ -6,7 +6,7 @@
     #import <Cocoa/Cocoa.h>
 #endif
 
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPUser.h"
 #import "XMPPResource.h"
 

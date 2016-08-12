@@ -1,5 +1,5 @@
 #import "XMPPDigestMD5Authentication.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPLogging.h"
 #import "XMPPInternal.h"
 #import "NSData+XMPP.h"

@@ -9,7 +9,7 @@
 #import "XMPPvCardCoreDataStorageObject.h"
 #import "XMPPvCardTempCoreDataStorageObject.h"
 #import "XMPPvCardAvatarCoreDataStorageObject.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPCoreDataStorageProtected.h"
 #import "XMPPLogging.h"
 

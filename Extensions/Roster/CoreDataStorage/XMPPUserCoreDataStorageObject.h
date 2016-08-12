@@ -8,7 +8,7 @@
 #endif
 
 #import "XMPPUser.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 
 @class XMPPGroupCoreDataStorageObject;
 @class XMPPResourceCoreDataStorageObject;

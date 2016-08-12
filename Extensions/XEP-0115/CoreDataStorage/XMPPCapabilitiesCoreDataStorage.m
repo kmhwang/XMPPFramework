@@ -1,7 +1,7 @@
 #import "XMPPCapabilitiesCoreDataStorage.h"
 #import "XMPPCapsCoreDataStorageObject.h"
 #import "XMPPCapsResourceCoreDataStorageObject.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPCoreDataStorageProtected.h"
 #import "XMPPLogging.h"
 

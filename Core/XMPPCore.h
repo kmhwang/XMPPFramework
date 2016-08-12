@@ -20,6 +20,7 @@
 #import "XMPPSCRAMSHA1Authentication.h"
 #import "XMPPPlainAuthentication.h"
 #import "XMPPXFacebookPlatformAuthentication.h"
+#import "XMPPXOAuth2Google.h"
 #import "XMPPAnonymousAuthentication.h"
 #import "XMPPDeprecatedPlainAuthentication.h"
 #import "XMPPDeprecatedDigestAuthentication.h"

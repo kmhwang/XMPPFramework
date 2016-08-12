@@ -1,4 +1,4 @@
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPLogging.h"
 #import "XMPPCapabilities.h"
 #import "NSData+XMPP.h"

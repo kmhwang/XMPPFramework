@@ -1,0 +1,86 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F03E09D7108B6B558326B4A7FA105E304FD0FE55" : 0,
+    "E4BCE3AE6B24E41B9BCE312FF3B0B6CD0B8B8025" : 0,
+    "38C2A0D4F62B675E8C16C8BC1437C7753846C8AC" : 0,
+    "02184E68B235AB5A28EE74C3C5F144D3ADA9DCF2" : 0,
+    "1C75F1C5CFCB95B3702F6F632FA05ED5244B519E" : 0,
+    "A20D666FF4B08EFE53F147818C2D4D17E2242912" : 0,
+    "70A8537565E8EBD1B9D364933832E742DD9D1D11" : 0,
+    "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D" : 0,
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : 0,
+    "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "057AC986-DBBB-4B1A-B6EF-AB462DC79F57",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F03E09D7108B6B558326B4A7FA105E304FD0FE55" : "XMPPFramework\/Vendor\/facebook-ios-sdk\/vendor\/OCHamcrest\/",
+    "E4BCE3AE6B24E41B9BCE312FF3B0B6CD0B8B8025" : "XMPPFramework\/Vendor\/facebook-ios-sdk\/vendor\/OCMock\/",
+    "38C2A0D4F62B675E8C16C8BC1437C7753846C8AC" : "XMPPFramework\/Vendor\/facebook-ios-sdk\/vendor\/OHHTTPStubs\/",
+    "02184E68B235AB5A28EE74C3C5F144D3ADA9DCF2" : "XMPPFramework\/Vendor\/facebook-ios-sdk\/vendor\/OCHamcrest\/Source\/XcodeCoverage\/",
+    "1C75F1C5CFCB95B3702F6F632FA05ED5244B519E" : "XMPPFramework\/Carthage\/Checkouts\/CocoaAsyncSocket\/",
+    "A20D666FF4B08EFE53F147818C2D4D17E2242912" : "XMPPFramework\/Vendor\/facebook-ios-sdk\/",
+    "70A8537565E8EBD1B9D364933832E742DD9D1D11" : "XMPPFramework\/Carthage\/Checkouts\/KissXML\/",
+    "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D" : "XMPPFramework\/",
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : "XMPPFramework\/Vendor\/facebook-ios-sdk\/vendor\/OHHTTPStubs\/OHHTTPStubs\/UnitTests\/AFNetworking\/",
+    "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : "XMPPFramework\/Carthage\/Checkouts\/CocoaLumberjack\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XMPP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XMPP.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/jonreid\/XcodeCoverage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "02184E68B235AB5A28EE74C3C5F144D3ADA9DCF2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robbiehanson\/CocoaAsyncSocket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1C75F1C5CFCB95B3702F6F632FA05ED5244B519E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CocoaLumberjack\/CocoaLumberjack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/AliSoftware\/OHHTTPStubs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "38C2A0D4F62B675E8C16C8BC1437C7753846C8AC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kmhwang\/KissXML.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70A8537565E8EBD1B9D364933832E742DD9D1D11"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/facebook\/facebook-ios-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A20D666FF4B08EFE53F147818C2D4D17E2242912"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:kmhwang\/XMPPFramework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/github.com\/AFNetworking\/AFNetworking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/erikdoe\/ocmock",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E4BCE3AE6B24E41B9BCE312FF3B0B6CD0B8B8025"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/hamcrest\/OCHamcrest",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F03E09D7108B6B558326B4A7FA105E304FD0FE55"
+    }
+  ]
+}

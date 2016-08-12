@@ -5,8 +5,8 @@
 //  Copyright © 2016 Inaka. All rights reserved.
 //
 
-#import <XMPPFramework/XMPPFramework.h>
-#import <XMPPFramework/XMPPResultSet.h>
+#import "XMPPFramework.h"
+#import "XMPPResultSet.h"
 
 @class XMPPIDTracker;
 @class XMPPMessage;

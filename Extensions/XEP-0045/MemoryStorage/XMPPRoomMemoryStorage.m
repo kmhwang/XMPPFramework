@@ -1,6 +1,6 @@
 #import "XMPPRoomMemoryStorage.h"
 #import "XMPPRoomPrivate.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "NSXMLElement+XEP_0203.h"
 #import "XMPPLogging.h"
 

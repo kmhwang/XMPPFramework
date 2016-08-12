@@ -1,0 +1,3 @@
+github "robbiehanson/CocoaAsyncSocket" "b392b5c15151b65823223713985463e6627cf3ad"
+github "CocoaLumberjack/CocoaLumberjack" "2.3.0"
+github "kmhwang/KissXML" "508ef531a0090576deb3083c3152b08a86aea382"

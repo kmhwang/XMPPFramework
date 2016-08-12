@@ -1,5 +1,5 @@
 #import "XMPPRoster.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPIDTracker.h"
 #import "XMPPLogging.h"
 #import "XMPPFramework.h"

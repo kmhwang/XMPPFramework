@@ -6,7 +6,7 @@
 //  Copyright 2011 RF.com. All rights reserved.
 //
 
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPLogging.h"
 #import "XMPPvCardTempModule.h"
 #import "XMPPvCardTemp.h"

@@ -1,4 +1,4 @@
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPRoom.h"
 #import "XMPPIDTracker.h"
 #import "XMPPMessage+XEP0045.h"

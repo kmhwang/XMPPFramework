@@ -4,7 +4,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPModule.h"
 #import "TURNSocket.h"
 

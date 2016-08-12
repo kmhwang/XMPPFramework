@@ -6,7 +6,7 @@
 //  Copyright © 2016 Inaka. All rights reserved.
 //
 
-#import <XMPPFramework/XMPPFramework.h>
+#import "XMPPFramework.h"
 #import "XMPPSlot.h"
 #import "XMPPIDTracker.h"
 

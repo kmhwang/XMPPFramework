@@ -1,4 +1,4 @@
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPRosterCoreDataStorage.h"
 #import "XMPPUserCoreDataStorageObject.h"
 #import "XMPPResourceCoreDataStorageObject.h"

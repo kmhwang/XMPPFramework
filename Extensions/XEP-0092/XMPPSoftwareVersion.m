@@ -1,5 +1,5 @@
 #import "XMPPSoftwareVersion.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPFramework.h"
 
 #if ! __has_feature(objc_arc)

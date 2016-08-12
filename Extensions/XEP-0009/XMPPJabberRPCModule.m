@@ -6,7 +6,7 @@
 //
 
 #import "XMPPJabberRPCModule.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPIQ+JabberRPC.h"
 #import "XMPPIQ+JabberRPCResonse.h"
 #import "XMPPLogging.h"

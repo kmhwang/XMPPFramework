@@ -6,8 +6,8 @@
 //  Copyright © 2016 Inaka. All rights reserved.
 //
 
-#import <XMPPFramework/XMPPFramework.h>
-#import "XMPPFramework/XMPPJID.h"
+#import "XMPPFramework.h"
+#import "XMPPJID.h"
 
 /**
  * The XMPPMUCLight module, combined with XMPPRoomLight and associated storage classes,

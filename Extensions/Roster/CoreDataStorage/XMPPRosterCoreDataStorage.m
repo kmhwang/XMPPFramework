@@ -4,7 +4,7 @@
 #import "XMPPResourceCoreDataStorageObject.h"
 #import "XMPPRosterPrivate.h"
 #import "XMPPCoreDataStorageProtected.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPLogging.h"
 #import "NSNumber+XMPP.h"
 

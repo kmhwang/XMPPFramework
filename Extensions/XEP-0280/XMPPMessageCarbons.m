@@ -1,5 +1,5 @@
 #import "XMPPMessageCarbons.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPFramework.h"
 #import "XMPPLogging.h"
 #import "XMPPIDTracker.h"

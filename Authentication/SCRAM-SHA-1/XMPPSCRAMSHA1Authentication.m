@@ -7,7 +7,7 @@
 //
 
 #import "XMPPSCRAMSHA1Authentication.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPLogging.h"
 #import "XMPPStream.h"
 #import "XMPPInternal.h"

@@ -1,5 +1,5 @@
 #import "XMPPDeprecatedDigestAuthentication.h"
-#import "XMPP.h"
+#import "XMPPCore.h"
 #import "XMPPInternal.h"
 #import "XMPPLogging.h"
 #import "NSData+XMPP.h"
