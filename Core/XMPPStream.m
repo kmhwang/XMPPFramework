@@ -6,8 +6,6 @@
 #import "XMPPSRVResolver.h"
 #import "NSData+XMPP.h"
 
-#import "GCDMulticastDelegate.h"
-
 #import <objc/runtime.h>
 #import <libkern/OSAtomic.h>
 

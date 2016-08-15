@@ -146,7 +146,7 @@
 		BE3F385D1D5D7F6F00F10F43 /* XMPPMUCLight.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F33211D5D7F6100F10F43 /* XMPPMUCLight.h */; };
 		BE3F385F1D5D7F6F00F10F43 /* XMPPRoomLight.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F33231D5D7F6100F10F43 /* XMPPRoomLight.h */; };
 		BE3F38611D5D7F6F00F10F43 /* DDList.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F33261D5D7F6100F10F43 /* DDList.h */; };
-		BE3F38631D5D7F6F00F10F43 /* GCDMulticastDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F33281D5D7F6100F10F43 /* GCDMulticastDelegate.h */; };
+		BE3F38631D5D7F6F00F10F43 /* GCDMulticastDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F33281D5D7F6100F10F43 /* GCDMulticastDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BE3F38651D5D7F6F00F10F43 /* RFImageToDataTransformer.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F332A1D5D7F6100F10F43 /* RFImageToDataTransformer.h */; };
 		BE3F38671D5D7F6F00F10F43 /* XMPPIDTracker.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F332C1D5D7F6100F10F43 /* XMPPIDTracker.h */; };
 		BE3F38691D5D7F6F00F10F43 /* XMPPSRVResolver.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F332E1D5D7F6100F10F43 /* XMPPSRVResolver.h */; };
