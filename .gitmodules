@@ -1,13 +1,13 @@
 [submodule "Vendor/facebook-ios-sdk"]
 	path = Vendor/facebook-ios-sdk
-	url = git://github.com/facebook/facebook-ios-sdk.git
+	url = git@github.com:facebook/facebook-ios-sdk.git
 	ignore = dirty
 [submodule "Carthage/Checkouts/CocoaAsyncSocket"]
 	path = Carthage/Checkouts/CocoaAsyncSocket
-	url = https://github.com/robbiehanson/CocoaAsyncSocket.git
+	url = git@github.com:robbiehanson/CocoaAsyncSocket.git
 [submodule "Carthage/Checkouts/CocoaLumberjack"]
 	path = Carthage/Checkouts/CocoaLumberjack
-	url = https://github.com/CocoaLumberjack/CocoaLumberjack.git
+	url = git@github.com:CocoaLumberjack/CocoaLumberjack.git
 [submodule "Carthage/Checkouts/KissXML"]
 	path = Carthage/Checkouts/KissXML
-	url = https://github.com/kmhwang/KissXML.git
+	url = gti@github.com:kmhwang/KissXML.git
