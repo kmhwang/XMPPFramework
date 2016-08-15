@@ -4,6 +4,10 @@
 #import "XMPPMessage+XEP0045.h"
 #import "XMPPLogging.h"
 
+#import "GCDMulticastDelegate.h"
+
+#import "XMPPRoomMessage.h"
+#import "XMPPRoomOccupant.h"
 
 // Log levels: off, error, warn, info, verbose
 // Log flags: trace

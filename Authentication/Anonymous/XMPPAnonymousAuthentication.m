@@ -1,5 +1,4 @@
 #import "XMPPAnonymousAuthentication.h"
-#import "XMPPCore.h"
 #import "XMPPLogging.h"
 #import "XMPPInternal.h"
 #import "NSXMLElement+XMPP.h"

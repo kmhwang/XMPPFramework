@@ -1,5 +1,8 @@
 #import <Foundation/Foundation.h>
-#import "XMPPCore.h"
+#import "XMPPModule.h"
+
+@import KissXML;
+@class XMPPJID;
 
 #define _XMPP_CAPABILITIES_H
 

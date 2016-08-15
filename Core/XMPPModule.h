@@ -1,5 +1,4 @@
 #import <Foundation/Foundation.h>
-#import "GCDMulticastDelegate.h"
 
 @class XMPPStream;
 

@@ -1,5 +1,12 @@
 #import <Foundation/Foundation.h>
-#import "XMPPCore.h"
+#import "XMPPModule.h"
+
+@class XMPPMessage;
+@class XMPPJID;
+@class XMPPIQ;
+@class XMPPPubSub;
+
+@import KissXML;
 
 #define _XMPP_PUB_SUB_H
 

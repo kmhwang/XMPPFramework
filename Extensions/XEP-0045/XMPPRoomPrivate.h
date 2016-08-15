@@ -1,5 +1,6 @@
 #import "XMPPRoom.h"
 
+@class GCDMulticastDelegate;
 
 @interface XMPPRoom (PrivateInternalAPI)
 

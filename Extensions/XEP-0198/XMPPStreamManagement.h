@@ -1,5 +1,9 @@
 #import <Foundation/Foundation.h>
-#import "XMPPCore.h"
+#import "XMPPModule.h"
+#import "XMPPStream.h"
+
+@import KissXML;
+@protocol XMPPCustomBinding;
 
 #define _XMPP_STREAM_MANAGEMENT_H
 

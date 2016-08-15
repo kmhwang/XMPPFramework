@@ -1,5 +1,9 @@
 #import <Foundation/Foundation.h>
-#import "XMPPCore.h"
+#import "XMPPModule.h"
+
+@class XMPPJID;
+@class XMPPPing;
+@class XMPPIQ;
 
 #define _XMPP_PING_H
 

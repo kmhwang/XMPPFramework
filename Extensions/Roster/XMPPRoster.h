@@ -6,9 +6,13 @@
     #import <Cocoa/Cocoa.h>
 #endif
 
-#import "XMPPCore.h"
-#import "XMPPUser.h"
-#import "XMPPResource.h"
+#import "XMPPModule.h"
+
+@class XMPPJID;
+@class XMPPPresence;
+@class XMPPIQ;
+
+@import KissXML;
 
 #define _XMPP_ROSTER_H
 

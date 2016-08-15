@@ -1,6 +1,8 @@
 #import <Foundation/Foundation.h>
 #import "XMPPRoster.h"
 
+@class GCDMulticastDelegate;
+
 @interface XMPPRoster (PrivateInternalAPI)
 
 /**
