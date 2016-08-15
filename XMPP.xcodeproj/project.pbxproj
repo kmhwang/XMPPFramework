@@ -21,7 +21,7 @@
 		BE3F37681D5D7F6E00F10F43 /* NSData+XMPP.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F31EC1D5D7F5F00F10F43 /* NSData+XMPP.h */; };
 		BE3F376A1D5D7F6E00F10F43 /* NSNumber+XMPP.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F31EE1D5D7F5F00F10F43 /* NSNumber+XMPP.h */; };
 		BE3F376C1D5D7F6E00F10F43 /* NSXMLElement+XMPP.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F31F01D5D7F5F00F10F43 /* NSXMLElement+XMPP.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BE3F376E1D5D7F6E00F10F43 /* XMPPCore.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F31F31D5D7F5F00F10F43 /* XMPPCore.h */; };
+		BE3F376E1D5D7F6E00F10F43 /* XMPPCore.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F31F31D5D7F5F00F10F43 /* XMPPCore.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BE3F376F1D5D7F6E00F10F43 /* XMPPConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F31F41D5D7F5F00F10F43 /* XMPPConstants.h */; };
 		BE3F37711D5D7F6E00F10F43 /* XMPPElement.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F31F61D5D7F5F00F10F43 /* XMPPElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BE3F37731D5D7F6E00F10F43 /* XMPPInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F31F81D5D7F5F00F10F43 /* XMPPInternal.h */; };
