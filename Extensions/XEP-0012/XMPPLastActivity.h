@@ -6,8 +6,9 @@
 //
 //
 
-#import "XMPPCore.h"
-#import "XMPPIQ+LastActivity.h"
+#import "XMPPModule.h"
+@class XMPPJID;
+@class XMPPIQ;
 
 #define _XMPP_LAST_ACTIVITY_H
 

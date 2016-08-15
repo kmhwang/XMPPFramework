@@ -1,7 +1,14 @@
 #import <Foundation/Foundation.h>
-#import "XMPPCore.h"
-#import "XMPPRoomMessage.h"
-#import "XMPPRoomOccupant.h"
+#import "XMPPModule.h"
+
+@class XMPPJID;
+
+@import KissXML;
+
+@class XMPPMessage;
+@class XMPPPresence;
+@class XMPPRoom;
+@class XMPPIQ;
 
 #define _XMPP_ROOM_H
 

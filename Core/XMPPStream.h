@@ -1,8 +1,8 @@
 #import <Foundation/Foundation.h>
 #import "XMPPSASLAuthentication.h"
 #import "XMPPCustomBinding.h"
-#import "GCDMulticastDelegate.h"
-#import "CocoaAsyncSocket/GCDAsyncSocket.h"
+
+@import CocoaAsyncSocket;
 
 @import KissXML;
 

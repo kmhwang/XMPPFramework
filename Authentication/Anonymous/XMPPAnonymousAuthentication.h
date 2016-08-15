@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 #import "XMPPSASLAuthentication.h"
-#import "XMPPCore.h"
 
+#import "XMPPStream.h"
 
 @interface XMPPAnonymousAuthentication : NSObject <XMPPSASLAuthentication>
 

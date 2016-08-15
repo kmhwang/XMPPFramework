@@ -3,6 +3,7 @@
 
 #import "XMPPCore.h"
 #import "XMPPRoom.h"
+#import "XMPPRoomMessage.h"
 
 
 @interface XMPPRoomMessageCoreDataStorageObject : NSManagedObject <XMPPRoomMessage>

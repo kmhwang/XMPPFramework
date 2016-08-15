@@ -1,6 +1,10 @@
 #import <Foundation/Foundation.h>
-#import "XMPPCore.h"
+#import "XMPPModule.h"
 
+@class XMPPJID;
+@class XMPPIQ;
+
+@import KissXML;
 #define _XMPP_TIME_H
 
 @class XMPPIDTracker;

@@ -3,6 +3,7 @@
 
 #import "XMPPCore.h"
 #import "XMPPRoom.h"
+#import "XMPPRoomOccupant.h"
 
 
 @interface XMPPRoomOccupantCoreDataStorageObject : NSManagedObject <XMPPRoomOccupant>
