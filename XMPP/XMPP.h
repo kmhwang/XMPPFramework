@@ -50,6 +50,10 @@ FOUNDATION_EXPORT const unsigned char XMPPVersionString[];
 
 #import <XMPP/NSXMLElement+XMPP.h>
 
+//
+// Extensions
+//
+
 #import <XMPP/XMPPBandwidthMonitor.h>
 #import <XMPP/XMPPGoogleSharedStatus.h>
 #import <XMPP/XMPPReconnect.h>
