@@ -1,4 +1,3 @@
-github "CocoaLumberjack/CocoaLumberjack"
+github "avielg/CocoaLumberjack"
 github "robbiehanson/CocoaAsyncSocket" "master"
 github "kmhwang/KissXML" "master"
-
