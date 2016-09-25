@@ -152,7 +152,6 @@
 		BE3F38691D5D7F6F00F10F43 /* XMPPSRVResolver.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F332E1D5D7F6100F10F43 /* XMPPSRVResolver.h */; };
 		BE3F386B1D5D7F6F00F10F43 /* XMPPStringPrep.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F33301D5D7F6100F10F43 /* XMPPStringPrep.h */; };
 		BE3F386D1D5D7F6F00F10F43 /* XMPPTimer.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F33321D5D7F6100F10F43 /* XMPPTimer.h */; };
-		BE3F3BBF1D5D7F7300F10F43 /* build-libidn.sh in Resources */ = {isa = PBXBuildFile; fileRef = BE3F37521D5D7F6E00F10F43 /* build-libidn.sh */; };
 		BE3F3BC01D5D7F7300F10F43 /* idn-int.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F37531D5D7F6E00F10F43 /* idn-int.h */; };
 		BE3F3BC11D5D7F7300F10F43 /* libidn.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BE3F37541D5D7F6E00F10F43 /* libidn.a */; };
 		BE3F3BC21D5D7F7400F10F43 /* stringprep.h in Headers */ = {isa = PBXBuildFile; fileRef = BE3F37551D5D7F6E00F10F43 /* stringprep.h */; };
@@ -1733,7 +1732,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE3F3BBF1D5D7F7300F10F43 /* build-libidn.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
